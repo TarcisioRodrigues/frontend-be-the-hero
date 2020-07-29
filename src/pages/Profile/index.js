@@ -34,6 +34,8 @@ export default function Profile(){
       localStorage.clear();
       history.push('/');
     }
+
+    // teesteee 
   return (
     <div className="profile-container">
       <header>
